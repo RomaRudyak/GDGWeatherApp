@@ -1,0 +1,11 @@
+/Users/admin/Projects/GDGWeatherApp/GDGWeatherApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/admin/Projects/GDGWeatherApp/GDGWeatherApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/admin/Projects/GDGWeatherApp/GDGWeatherApp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/admin/Projects/GDGWeatherApp/GDGWeatherApp/bin/Debug/GDGWeatherApp.dll.mdb
+/Users/admin/Projects/GDGWeatherApp/GDGWeatherApp/bin/Debug/GDGWeatherApp.dll
+/Users/admin/Projects/GDGWeatherApp/GDGWeatherApp/obj/Debug/GDGWeatherApp.dll
+/Users/admin/Projects/GDGWeatherApp/GDGWeatherApp/obj/Debug/GDGWeatherApp.dll.mdb
+/Users/admin/Projects/GDGWeatherApp/GDGWeatherApp/bin/Debug/System.Net.Http.dll
+/Users/admin/Projects/GDGWeatherApp/GDGWeatherApp/bin/Debug/System.Net.Http.Primitives.dll
+/Users/admin/Projects/GDGWeatherApp/GDGWeatherApp/bin/Debug/System.Net.Http.Extensions.dll
+/Users/admin/Projects/GDGWeatherApp/GDGWeatherApp/bin/Debug/Newtonsoft.Json.dll
